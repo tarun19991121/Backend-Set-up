@@ -1,0 +1,17 @@
+{
+  "name": "yt-type-app",
+  "version": "1.0.0",
+  "description": "a backend app for Yt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "full",
+    "stack"
+  ],
+  "author": "Tarun",
+  "license": "ISC"
+}
